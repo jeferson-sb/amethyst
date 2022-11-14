@@ -1,5 +1,8 @@
 local colors = {
   bg = "#1E1E1E",
+  fg = "#d4d4d4",
+  black = "#161824",
+  none = "NONE",
   indigo = { "#1a1b26", "#16161e" },
   red = { "#E53E3E" },
   orange = { "#DD6B20" },
